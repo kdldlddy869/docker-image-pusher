@@ -1,1 +1,2 @@
 dyrnq/open-webui:main
+1panel/maxkb
