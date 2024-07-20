@@ -1,2 +1,3 @@
 dyrnq/open-webui:main
 1panel/maxkb
+ollama/ollama:0.2.6
