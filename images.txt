@@ -1,4 +1,4 @@
 dyrnq/open-webui:main
 1panel/maxkb
 ollama/ollama:0.2.6
-lobehub/lobe-chat:v1.6.1
+lobehub/lobe-chat:v1.6.2
