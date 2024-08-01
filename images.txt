@@ -5,3 +5,4 @@ lobehub/lobe-chat:latest
 yidadaa/chatgpt-next-web:latest
 arcw/sgcc_electricity:latest
 snowdreamtech/frpc:latest
+snowdreamtech/frps:latest
