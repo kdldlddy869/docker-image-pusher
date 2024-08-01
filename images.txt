@@ -4,3 +4,4 @@ ollama/ollama:0.2.6
 lobehub/lobe-chat:v1.6.6
 yidadaa/chatgpt-next-web:v2.13.0
 arcw/sgcc_electricity
+nowdreamtech/frps
