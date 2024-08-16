@@ -1,9 +1,9 @@
-dyrnq/open-webui:main
-1panel/maxkb
 ollama/ollama:latest
-lobehub/lobe-chat:latest
-yidadaa/chatgpt-next-web:latest
 arcw/sgcc_electricity:latest
 snowdreamtech/frpc:latest
 snowdreamtech/frps:latest
 ghcr.io/kiwix/kiwix-serve:latest
+wangqiru/ttrss:nightly
+wangqiru/mercury-parser-api:latest
+wangqiru/opencc-api-server:latest
+postgres:16-alpine
