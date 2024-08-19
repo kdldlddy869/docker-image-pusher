@@ -7,3 +7,5 @@ wangqiru/ttrss:nightly
 wangqiru/mercury-parser-api:latest
 wangqiru/opencc-api-server:latest
 postgres:16-alpine
+threatbook/hfish-server:latest
+containrrr/watchtower
