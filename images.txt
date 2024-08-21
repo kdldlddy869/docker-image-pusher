@@ -9,3 +9,4 @@ wangqiru/opencc-api-server:latest
 postgres:16-alpine
 threatbook/hfish-server:latest
 containrrr/watchtower
+vaultwarden/server:latest
