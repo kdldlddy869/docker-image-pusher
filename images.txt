@@ -13,3 +13,4 @@ vaultwarden/server:latest
 openresty/openresty:1.25.3.1-2-focal
 lobehub/lobe-chat:latest
 pihole/pihole:latest
+fredliang/derper:latest
