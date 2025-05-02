@@ -1,4 +1,3 @@
-valkey/valkey:7.2.5-alpine
-rabbitmq:3.13.6-management-alpine
-minio/minio
-postgres:15.7-alpine
+diygod/rsshub:2024-12-14
+glidea/zenfeed:latest
+glidea/zenfeed-web:latest
