@@ -1,3 +1,6 @@
-diygod/rsshub:2024-12-14
-glidea/zenfeed:latest
-glidea/zenfeed-web:latest
+immich_server
+immich_machine_learning
+immich_redis
+immich_postgres
+
+
